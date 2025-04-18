@@ -4,4 +4,4 @@ This is the repository for the project *Towards census-like statistics for forei
 
 ![](logo-ncn_en.png)
 
-To get started we encourage you to look at the [project outputs](https://github.com/ncn-foreigners/outputs).
+To get started we encourage you to look at the [project website](https://ncn-foreigners.github.io) or [project outputs](https://github.com/ncn-foreigners/outputs).
