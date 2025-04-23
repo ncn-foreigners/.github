@@ -5,3 +5,8 @@ This is the repository for the project *Towards census-like statistics for forei
 ![](logo-ncn_en.png)
 
 To get started we encourage you to look at the [project website](https://ncn-foreigners.github.io) or [project outputs](https://github.com/ncn-foreigners/outputs).
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="singleRcapture.PNG" style="width: 150px; margin-right: 10px;"/>
+    <img src="nonprobsvy.PNG" style="width: 150px; margin-left: 10px;"/>
+</div>
