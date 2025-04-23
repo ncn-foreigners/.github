@@ -8,9 +8,9 @@ To get started we encourage you to look at the [project website](https://ncn-for
 
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://ncn-foreigners.github.io/singleRcapture/index.html" target="_blank">
-        <img src="singleRcapture.PNG" style="width: 150px; margin-right: 10px;"/>
+        <img src="singleRcapture.PNG" style="width: 250px; margin-right: 10px;"/>
     </a>
     <a href="https://ncn-foreigners.github.io/nonprobsvy/index.html" target="_blank">
-        <img src="nonprobsvy.PNG" style="width: 150px; margin-left: 10px;"/>
+        <img src="nonprobsvy.PNG" style="width: 250px; margin-left: 10px;"/>
     </a>
 </div>
