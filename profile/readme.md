@@ -7,5 +7,5 @@ This is the repository for the project *Towards census-like statistics for forei
 To get started we encourage you to look at the [project website](https://ncn-foreigners.github.io) or [project outputs](https://github.com/ncn-foreigners/outputs).
 
 <div style="display: flex; justify-content: center; align-items: center;">
-     <img src="two-pkgs.png" style="width: 300px; margin-right: 10px;"/>
+     <img src="IMG_4446.PNG" style="width: 300px; margin-right: 10px;"/>
  </div>
